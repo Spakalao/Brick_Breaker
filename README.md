@@ -1,0 +1,29 @@
+# 🧱 Brick Breaker
+
+Un jeu **Brick Breaker** classique développé en **Java**, utilisant les bibliothèques **Swing** et **AWT** pour l'interface graphique. Le joueur contrôle une raquette pour faire rebondir une balle et casser toutes les briques présentes à l'écran.
+
+---
+
+## 🎮 Fonctionnalités
+
+- Interface graphique simple et fluide avec **Java Swing/AWT**
+- Détection des collisions : balle, briques, murs et raquette
+- Système de score
+- Rejouer la partie après la fin
+- Le classement TOP 5 est présenté à la fin du jeu
+-  Deux types de briques :
+  - **Blanches** : se cassent avec un seul coup
+  - **Bleues** : nécessitent **2 coups** pour être détruites et offrent une **récompense doublée**
+- Contrôle clavier intuitif
+
+---
+
+## 🛠 Technologies utilisées
+
+- **Java**
+- **Swing** pour l'interface utilisateur
+- **AWT** pour la gestion des événements et le rendu de base
+
+---
+
+
